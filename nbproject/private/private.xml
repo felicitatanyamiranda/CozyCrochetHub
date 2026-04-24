@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>web/shop.jsp</url>
+            <bookmark id="1">
+                <name/>
+                <line>0</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/tanya/OneDrive/Documents/NetBeansProjects/CozyCrochetHub/web/shop.jsp</file>
+            <file>file:/C:/Users/tanya/OneDrive/Documents/NetBeansProjects/CozyCrochetHub/web/my_account.jsp</file>
+            <file>file:/C:/Users/tanya/OneDrive/Documents/NetBeansProjects/CozyCrochetHub/src/java/com/cozycrochet/servlets/CartServlet.java</file>
+            <file>file:/C:/Users/tanya/OneDrive/Documents/NetBeansProjects/CozyCrochetHub/web/cart.jsp</file>
+            <file>file:/C:/Users/tanya/OneDrive/Documents/NetBeansProjects/CozyCrochetHub/web/review_product.jsp</file>
+            <file>file:/C:/Users/tanya/OneDrive/Documents/NetBeansProjects/CozyCrochetHub/src/java/com/cozycrochet/servlets/DeleteUserServlet.java</file>
+            <file>file:/C:/Users/tanya/OneDrive/Documents/NetBeansProjects/CozyCrochetHub/src/java/com/cozycrochet/models/User.java</file>
+            <file>file:/C:/Users/tanya/OneDrive/Documents/NetBeansProjects/CozyCrochetHub/web/css/style.css</file>
+            <file>file:/C:/Users/tanya/OneDrive/Documents/NetBeansProjects/CozyCrochetHub/src/java/com/cozycrochet/servlets/ContactServlet.java</file>
+            <file>file:/C:/Users/tanya/OneDrive/Documents/NetBeansProjects/CozyCrochetHub/web/change_password.jsp</file>
+            <file>file:/C:/Users/tanya/OneDrive/Documents/NetBeansProjects/CozyCrochetHub/src/java/com/cozycrochet/servlets/ChangePasswordServlet.java</file>
+            <file>file:/C:/Users/tanya/OneDrive/Documents/NetBeansProjects/CozyCrochetHub/web/login.jsp</file>
+            <file>file:/C:/Users/tanya/OneDrive/Documents/NetBeansProjects/CozyCrochetHub/web/admin_analytics.jsp</file>
+            <file>file:/C:/Users/tanya/OneDrive/Documents/NetBeansProjects/CozyCrochetHub/web/footer.jsp</file>
+            <file>file:/C:/Users/tanya/OneDrive/Documents/NetBeansProjects/CozyCrochetHub/src/java/com/cozycrochet/servlets/AddProductServlet.java</file>
+            <file>file:/C:/Users/tanya/OneDrive/Documents/NetBeansProjects/CozyCrochetHub/src/java/com/cozycrochet/servlets/ReviewServlet.java</file>
+            <file>file:/C:/Users/tanya/OneDrive/Documents/NetBeansProjects/CozyCrochetHub/src/java/com/cozycrochet/models/CartItem.java</file>
+            <file>file:/C:/Users/tanya/OneDrive/Documents/NetBeansProjects/CozyCrochetHub/src/java/com/cozycrochet/servlets/LoginServlet.java</file>
+            <file>file:/C:/Users/tanya/OneDrive/Documents/NetBeansProjects/CozyCrochetHub/src/java/com/cozycrochet/servlets/DeleteProductServlet.java</file>
+            <file>file:/C:/Users/tanya/OneDrive/Documents/NetBeansProjects/CozyCrochetHub/src/java/com/cozycrochet/servlets/UpdateProfileServlet.java</file>
+            <file>file:/C:/Users/tanya/OneDrive/Documents/NetBeansProjects/CozyCrochetHub/web/logout.jsp</file>
+            <file>file:/C:/Users/tanya/OneDrive/Documents/NetBeansProjects/CozyCrochetHub/web/contact.jsp</file>
+            <file>file:/C:/Users/tanya/OneDrive/Documents/NetBeansProjects/CozyCrochetHub/web/checkout.jsp</file>
+            <file>file:/C:/Users/tanya/OneDrive/Documents/NetBeansProjects/CozyCrochetHub/web/add_product.jsp</file>
+            <file>file:/C:/Users/tanya/OneDrive/Documents/NetBeansProjects/CozyCrochetHub/web/edit_product.jsp</file>
+            <file>file:/C:/Users/tanya/OneDrive/Documents/NetBeansProjects/CozyCrochetHub/src/java/com/cozycrochet/db/DBConnection.java</file>
+            <file>file:/C:/Users/tanya/OneDrive/Documents/NetBeansProjects/CozyCrochetHub/web/my_orders.jsp</file>
+            <file>file:/C:/Users/tanya/OneDrive/Documents/NetBeansProjects/CozyCrochetHub/src/java/com/cozycrochet/servlets/CancelOrdersServlet.java</file>
+            <file>file:/C:/Users/tanya/OneDrive/Documents/NetBeansProjects/CozyCrochetHub/web/confirmation.jsp</file>
+            <file>file:/C:/Users/tanya/OneDrive/Documents/NetBeansProjects/CozyCrochetHub/web/admin_messages.jsp</file>
+            <file>file:/C:/Users/tanya/OneDrive/Documents/NetBeansProjects/CozyCrochetHub/src/java/com/cozycrochet/servlets/OrderServlet.java</file>
+            <file>file:/C:/Users/tanya/OneDrive/Documents/NetBeansProjects/CozyCrochetHub/web/wishlist.jsp</file>
+            <file>file:/C:/Users/tanya/OneDrive/Documents/NetBeansProjects/CozyCrochetHub/web/admin.jsp</file>
+            <file>file:/C:/Users/tanya/OneDrive/Documents/NetBeansProjects/CozyCrochetHub/src/java/com/cozycrochet/servlets/WishlistServlet.java</file>
+            <file>file:/C:/Users/tanya/OneDrive/Documents/NetBeansProjects/CozyCrochetHub/src/java/com/cozycrochet/servlets/UpdateStatusServlet.java</file>
+            <file>file:/C:/Users/tanya/OneDrive/Documents/NetBeansProjects/CozyCrochetHub/src/java/com/cozycrochet/servlets/ProductServlet.java</file>
+            <file>file:/C:/Users/tanya/OneDrive/Documents/NetBeansProjects/CozyCrochetHub/web/register.jsp</file>
+            <file>file:/C:/Users/tanya/OneDrive/Documents/NetBeansProjects/CozyCrochetHub/src/java/com/cozycrochet/servlets/Registerservlet.java</file>
+            <file>file:/C:/Users/tanya/OneDrive/Documents/NetBeansProjects/CozyCrochetHub/web/admin_orders.jsp</file>
+            <file>file:/C:/Users/tanya/OneDrive/Documents/NetBeansProjects/CozyCrochetHub/web/admin_users.jsp</file>
+        </group>
+    </open-files>
+</project-private>

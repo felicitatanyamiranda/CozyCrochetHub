@@ -1,0 +1,22 @@
+SMAP
+add_005fproduct_jsp.java
+JSP
+*S JSP
+*F
++ 0 add_product.jsp
+add_product.jsp
++ 1 footer.jsp
+footer.jsp
+*L
+1,60:52
+61,3:113
+63,40:116
+103,7:157
+109:164
+110:165,6
+111:171
+112,4:173
+115,32:177
+5#1,47:209
+146#0,3:256
+*E
