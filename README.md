@@ -13,13 +13,13 @@ A full-stack handmade crochet e-commerce web application built using Java Servle
 ![Shop](shop.png)
 
 ### My Wishlist
-![Wishlist](screenshot-wishlist.png)
+![Wishlist](screenshot-wish.png)
 
 ### Shopping Cart
 ![Cart](screenshot-cart.png)
 
 ### Checkout — Shipping & Payment
-![Checkout](screenshot-checkout.png)
+![Checkout](screenshot-check.png)
 
 ### Payment Methods (UPI, Card, COD)
 ![Payment](screenshot-payment.png)
@@ -34,7 +34,7 @@ A full-stack handmade crochet e-commerce web application built using Java Servle
 ![Login](screenshot-login.png)
 
 ### Admin Dashboard Overview
-![Admin Dashboard](screenshot-admin-dashboard.png)
+![Admin Dashboard](screenshot-admindashboard.png)
 
 ### Admin Low Stock Alert
 ![Low Stock](screenshot-admin-lowstock.png)
